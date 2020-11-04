@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(18, 106, 128);
+    margin: 0px;
+}
+h1 {
+display: flex;
+justify-content: center;
+margin: 15px;
+font-family: monospace;
+color: "black";
+}
+p {
+    font-size: 20px;
+    font-family: monospace;
+    margin-left: 10px;
+}
+#btn-container {
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.buttons {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    font-family: cursive;
+    margin: 15px;
+}
+
+#dice {
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+    border-color: white;
+    background-color: black;
+    min-height: 130px;
+    min-width: 200px;
+
+}
+
